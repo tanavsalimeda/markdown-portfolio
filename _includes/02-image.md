@@ -1,2 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
-I dont see any option to add image here
+![Image of Nakshatras](https://www.lunarplanner.com/Astrology/Nakshatras/index.html)
+![Image of Nakshatras](https://www.lunarplanner.com/Astrology/Nakshatras/images/nakshatras-chart.png)
